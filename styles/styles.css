@@ -142,10 +142,11 @@ button {
 /* BODY */
 
 .business-solutions {
-    background-color: var(--background-gray-color);
     padding-top: 200px;
     padding-bottom: 200px;
     text-align: center;
+    background-color: var(--background-gray-color);
+    background-image: url(solution.jpg);
 }
 
 .business-text {
