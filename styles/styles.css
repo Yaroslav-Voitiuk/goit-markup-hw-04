@@ -406,6 +406,8 @@ button {
     line-height: 2;
     letter-spacing: 0.06em;
     margin-bottom: 4px;
+    color: var(--body-title-color);
+    cursor: pointer;
 }
 
 .portfolio-position {
@@ -425,7 +427,7 @@ button {
 
 .portfolio-li {
     width: 370px;
-}
+}   
 
 
 .portfolio-image {
